@@ -1,1 +1,3 @@
-#  Esse é meu primeiro projeto em Git
+#  Meus Projes no GitHub 
+Compartilhar para  multiplicar conhecimentos.
+
